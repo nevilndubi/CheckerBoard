@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-color: rgb(18, 58, 8);
+    display: inline-block;
+}
+
+.row{
+    width: 83px;
+    height: 83px;
+    color: rgb(66, 11, 11);
+    display:inline-block;
+}
+
+.color1{
+    background-color: goldenrod;
+    color: white;
+    display: inline-block;
+
+
+}
+
+.color2{
+    background-color: navy;
+    color: white;
+    display: inline-block;
+}
+
+
+
+h1{
+    color:blue;
+}
